@@ -42,9 +42,9 @@ The optimized Random Forest model achieved an accuracy of 71%, showing strong pe
 
 
 LIMITATIONS :- 
--Class imbalance impacts the recall of potable water samples.
--Absence of real-time and location-specific data limits generalization.
--The dataset does not include temporal variations, which may affect seasonal water quality changes.
+The Class imbalance impacts the recall of potable water samples.
+Also, the Absence of real-time and location-specific data limits generalization.
+The dataset does not include temporal variations, which may affect seasonal water quality changes.
 
 
 CONCLUSION :- 
